@@ -63,6 +63,8 @@ Leverage the gained insights for ongoing improvements, adeptly adapting to evolv
 
 A visual representation of the database structure comprising tables such as 'artist,' 'album,' 'track,' 'media type,' and more. This schema provides a blueprint for organizing music store data, making it accessible and insightful for analysis.
 
+![MusicDatabaseSchema](https://github.com/rajeshkumar-333/Music-Store-Analysis/assets/167745088/aa71fb7a-843a-4e4b-939d-4e2e0414ebfc)
+
 **Conclusion**
 
 In conclusion, the SQL analysis of the music store's database empowers the business with actionable intelligence, enabling it to adapt, evolve, and thrive in a dynamic market, ultimately driving sustained growth and success.
